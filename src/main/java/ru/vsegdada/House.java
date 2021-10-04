@@ -6,7 +6,7 @@ public class House {
     private int floor = 2;
 
     public void infoHouse(){
-        System.out.println("info about house");
+        System.out.println("Address: " + address + ", How much floors: " + floor + ", House's color: " + color);
         }
 
     }
