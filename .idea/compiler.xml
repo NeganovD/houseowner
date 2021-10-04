@@ -9,5 +9,8 @@
         <module name="QuTraining" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="QuTraining" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
