@@ -6,7 +6,7 @@ public class Owner{
     private int age = 30;
     private String allinfoowner = firstname + " " + lastname + ", "+ age + " years";
 
-    public void SayMyName(){
+    public void sayMyName(){
        System.out.println("Hello, My name is " + firstname + " " + lastname + ", "+ age + " years");
    }
    public void infoOwner(){
